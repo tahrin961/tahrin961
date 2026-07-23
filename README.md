@@ -89,10 +89,8 @@ Deep Learning     █████████░░░░
 <a href="mailto:tahrin961@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
 </p>
 
----
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdrbWhvY2tnYnl1ZmRwenJzYzBjeWVvczg3OG8zd2hrc28ycDhjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xFkgeu7dhfgqqxJqmj/giphy.gif" width="500">
 </p>
