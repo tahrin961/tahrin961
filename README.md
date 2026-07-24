@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋 I'm Ankita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Bioinformatics+Engineering+Student;Full-Stack+Developer;Bioinformatics+Researcher;OpenGL+Game+Developer;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Bioinformatics+Engineering+Student;Full-Stack+Developer;Aspiring+Researcher;Always+Learning+Something+New!" />
 </p>
 
 ---
