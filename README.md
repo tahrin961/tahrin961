@@ -14,7 +14,7 @@
 
 🎓 Bioinformatics Engineering student at **Bangladesh Agricultural University**
 
-💻 Passionate about software engineering, bioinformatics, AI, and computer graphics.
+💻 Passionate about software engineering, bioinformatics, AI, and research.
 
 🧬 Interested in:
 - Bioinformatics & Computational Biology
