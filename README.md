@@ -21,11 +21,9 @@
 - Artificial Intelligence & Machine Learning
 - Cancer Biomarker Discovery
 - Full-Stack Web Development
-- OpenGL & Computer Graphics
 - Open Source
 
 🌱 Currently exploring
-
 - Modern C++
 - OpenGL
 - Computer Networks
